@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, I'm Christopher! 👋 
+I’m an aspiring second-year student at the University of Exeter studying joint Biology & Computer Science. I've been using Python to build my own projects for a while now, so I've recently started writing my own Google Apps Scripts (which use JavaScript) too. I'm really keen to branch out and learn more languages too.
+
+At the moment I'm currently looking for work experience placements and internships that will allow me to gain insight and experience applying skills from my studies in the workplace. In the long-term I’m looking for a career in bioinformatics where I can draw on expertise from both of my disciplines and make a positive impact on society. 
+
+To find out more about me check out my [LinkedIn profile](https://www.linkedin.com/in/christopher-menon/) or browse through my projects below!
 
 <!--
 **cmenon12/cmenon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
